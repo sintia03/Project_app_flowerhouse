@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Authors
+
+* **Sintia** - *Developer* - [@sintia03](https://github.com/sintia03)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
